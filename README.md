@@ -12,7 +12,10 @@ The dataset used in this project is the Greenhouse Gas Inventory Data, which con
 - Perfluorocarbons (PFCs)
 - Sulphur hexafluoride (SF6)
 - Nitrogen trifluoride (NF3)
+
+
 The data spans from 1990 to the latest available year and includes the following columns:
+
 
 - country_or_area: The country or area where the data was collected.
 - year: The year of the data.
